@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Snapshots]]></title>
+        <description><![CDATA[Snapshots]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 16:15:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Playing with my DSLR]]></title>
+            <description><![CDATA[<article><h1>Playing with my DSLR</h1><p>Just learning</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2b33580-5295-4613-97d8-3f4c909fe807.jpg"></article>]]></description>
+            <link>undefinedplaying-with-my-dslr/index.html</link>
+            <guid isPermaLink="false">3552ef27-ceeb-433a-8be6-30846dbaa90c</guid>
+            <pubDate>Fri, 30 Oct 2015 16:15:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
