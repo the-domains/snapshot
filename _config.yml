@@ -1,0 +1,23 @@
+name: snapshot
+favicon: null
+layout_spectrum: 0.5827549993991852
+typography_spectrum: 0.8458615953568369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1762853222899139
+  lightness: 0.06958064390346408
+  saturation: 0.27682817121967673
+  rhythmicContrast: 0.7037998510058969
+purpose: []
